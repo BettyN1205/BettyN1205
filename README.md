@@ -8,6 +8,6 @@
 - 👯 I also worked in Data Analytics and Business Analytics for many years
 - ⚡ Fun fact: I majored in Education and Journalism at university
 - 🎹 When I'm not coding I love listening to & playing music, playing vedio games and hiking
-- 💬 Reach me at:  <a href="https://www.linkedin.com/in/bettychaoranniu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betty niu" height="15" width="15" /></a>
+- 💬 Reach me at:  <a href="https://www.linkedin.com/in/bettychaoranniu/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="betty niu" height="15" width="15" margin="0 5px" /></a>
 - 👩 Pronouns: she/her
 
