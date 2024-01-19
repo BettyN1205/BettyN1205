@@ -2,15 +2,12 @@
 
 <!--
 **BettyN1205/BettyN1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently looking for a job in **full stack development**
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently changing my career to Full Stack Development
+- 🌱 Previously, I was an E-commerce Oprations Manager 
+- 👯 I also worked in Data Analytics and Business Analytics for many years
+- ⚡ Fun fact: I majored in Education and Journalism at university
+- 🎹 When I'm not coding I love listening to & playing music, playing vedio games and hiking
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/bettychaoranniu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betty niu" height="20" width="20" /></a>
+- 👩 Pronouns: she/her
+
