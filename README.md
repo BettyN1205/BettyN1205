@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Betty Niu
 
 <!--
 **BettyN1205/BettyN1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently looking for a job in **full stack development**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
